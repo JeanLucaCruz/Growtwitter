@@ -1,4 +1,7 @@
 <?php
+require_once "./usuario.php";
+require_once "./like.php";
+require_once "./tweet.php";
 // Classe Usuario
 class Usuario {
     private $id;
